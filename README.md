@@ -30,7 +30,7 @@ How to capture photos or videos using AI Vision [OpenCv Python]
    # Step c:
    pipenv shell
        
-   # Step 4:
+   # Step d:
    Now we are all done. Run the file using command :
     python img_click.py
           
