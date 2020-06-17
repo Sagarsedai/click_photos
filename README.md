@@ -16,22 +16,22 @@ How to capture photos or videos using AI Vision [OpenCv Python]
    Clone this repository anywhere you want
   
   # Step 4:
-    Open cloned file in VS-Code
+   Open cloned file in VS-Code
 
  # Step 5:
-    in vs-code terminal type following code:
+   In vs-code terminal type following code:
     
-    # Step 1:
-      pip install Pipenv
+  # Step a:
+   pip install Pipenv
      
-     # Step 2:
-      pipenv install opencv-contrib-python
+   # Step b:
+   pipenv install opencv-contrib-python
 
-      # Step 3:
-        pipenv shell
+   # Step c:
+   pipenv shell
        
-       # Step 4:
-        Now we are all done. Run the file using command :
-          python click_photos.py
+   # Step 4:
+   Now we are all done. Run the file using command :
+    python img_click.py
           
   
